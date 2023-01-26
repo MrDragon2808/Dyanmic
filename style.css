@@ -1,0 +1,29 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#nagi
+{
+font-size: 18px;
+}
+#naruto
+{
+    background-size: cover;
+    background-position: center;
+}
+canvas
+{
+    box-shadow: 10px 10px 10px yellow; 
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+#sai
+{
+    font-size: 18px;
+}
+
